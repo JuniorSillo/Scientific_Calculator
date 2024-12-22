@@ -83,7 +83,9 @@ Scientific-Calculator/
 ## 🖼 Screenshots  
 
 ### **Main Interface**  
-![Scientific Calculator UI] ![Screenshot 2024-12-05 at 01 16 10](https://github.com/user-attachments/assets/e68a183d-acf8-40a8-ba0b-1c85d91e07eb)
+ ![Screenshot 2024-12-05 at 01 16 10](https://github.com/user-attachments/assets/e68a183d-acf8-40a8-ba0b-1c85d91e07eb)
+
+## Live Preview (https://scientific-calculator-beta-blond.vercel.app/) 
 
 
 
